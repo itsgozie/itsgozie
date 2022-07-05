@@ -2,6 +2,7 @@
 - 👀 I’m interested in basketball and kicks
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on frontend projects
+-  @ I'm available for office and remote jobs
 - 📫 How to reach me fortune.lekwuwa@gmail.com
 
 <!---
